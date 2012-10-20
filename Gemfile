@@ -39,10 +39,13 @@ group :test do
   gem 'factory_girl_rails', '4.1.0'
 end
 
+
+
 #group :production do
 gem 'pg', '0.12.2'
 #end
 
+gem 'heroku'
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
